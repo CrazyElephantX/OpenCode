@@ -12,7 +12,14 @@
       "sequence-diagram": "allow",
       "openapi-spec": "allow",
       "asyncapi-spec": "allow",
-      "nfr-requirements": "allow"
+      "nfr-requirements": "allow",
+      "user-story": "allow",
+      "backlog-prioritization": "allow",
+      "business-case": "allow",
+      "product-roadmap": "allow",
+      "stakeholder-map": "allow",
+      "business-process-bpmn": "allow",
+      "security-review-checklist": "allow"
     }
   }
 }
